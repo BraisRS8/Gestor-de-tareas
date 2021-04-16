@@ -29,7 +29,7 @@ import javafx.scene.input.MouseEvent;
 /**
  * FXML Controller class
  *
- * 
+ * @author Brais Rodríguez Soliño
  */
 public class VentanaController implements Initializable {
 
